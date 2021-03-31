@@ -1,6 +1,6 @@
 # Ax-b-Matrix-Solution
 
-Solving a given set of linear equations.
+Solving a given set of linear equations, without using any numeric python library
 
 First determines the following conditions;
 * If 𝑟𝑎𝑛𝑘(𝐴) = 𝑛, then it finds the unique solution and additionally, it also finds 𝐴^−1.
